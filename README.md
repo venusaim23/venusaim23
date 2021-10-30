@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Greetings](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;I'm+Venu+Sai;Welcome+to+my+github+profile&center=true&vCenter=true&size=50)](https://git.io/typing-svg)
+[![Greetings](https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!;I'm+Venu+Sai;Welcome+to+my+github+profile&center=true&vCenter=true&size=50&width=800&height=100)](https://git.io/typing-svg)
