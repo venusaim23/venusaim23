@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 
 [![Greetings](https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!;I'm+Venu+Sai.;Welcome+to+my+github+profile!&center=true&vCenter=true&size=50&width=900&height=100)](https://git.io/typing-svg)
 
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_c1dtgznx.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop  autoplay></lottie-player>
