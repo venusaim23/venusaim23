@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **venusaim23/venusaim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Greetings](https://readme-typing-svg.herokuapp.com/?lines=Hi+there;I'm+Venu+Sai;Welcome+to+my+github+profile&center=true&vCenter=true&size=50)](https://git.io/typing-svg)
