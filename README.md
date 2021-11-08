@@ -50,9 +50,9 @@ Tools/Technologies/Platforms: <br>
 ---
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=venusaim23&count_private=true&show_icons=true&title_color=086ccc&text_color=ffffff&icon_color=7ffd01&border_color=dddddd&bg_color=000000" title="" alt="Venu Sai's GitHub stats" />
-<!--     <img src="" title="" alt="" />
-    <img src="" title="" alt="" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=venusaim23&count_private=true&show_icons=true&title_color=086ccc&text_color=ffffff&icon_color=7ffd01&border_color=dddddd&bg_color=000000" title="" alt="Venu Sai's GitHub stats" /> <br>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=venusaim23&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&ring=086CCC&fire=086CCC&currStreakNum=7FFD01&currStreakLabel=086CCC&sideNums=086CCC" title="" alt="Venu Sai's GitHub streak" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venusaim23&layout=compact&hide=ruby,shell&theme=chartreuse-dark&title_color=086ccc&border_color=dddddd" title="" alt="Languages used" /> <br>
 </p>
 
 ---
