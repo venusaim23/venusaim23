@@ -9,12 +9,12 @@ Connect with me: <br>
 <a target="_blank" href="https://www.linkedin.com/in/venusaim000/"><img align="left" title="LinkedIn - Venu Sai" alt="LinkedIn" width="22px" src="./Logos_coloured/linkedin.svg" /></a>
 <a target="_blank" href="mailto:venusaim23@gmail.com"><img align="left" title="Gmail - Venu Sai" alt="Gmail" width="22px" src="./Logos_coloured/gmail.svg" /></a>
 <a target="_blank" href="https://github.com/venusaim23"><img align="left" title="GitHub - Venu Sai" alt="GitHub" width="22px" src="./Logos_coloured/github.svg" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/14845078/venu-sai"><img align="left" title="Stack Overflow - Venu Sai" alt="Stack Overflow" width="22px" src="./Logos_coloured/.svg" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/14845078/venu-sai"><img align="left" title="Stack Overflow - Venu Sai" alt="Stack Overflow" width="22px" src="./Logos_coloured/stackoverflow.svg" /></a>
 
 <br>
 <br>
 
-Prgramming Languages: <br>
+Programming Languages: <br>
 
 <img align="left" title="Java" alt="Java" width="22px" src="./Logos_coloured/java.svg" />
 <img align="left" title="Python 3" alt="Python" width="22px" src="./Logos_coloured/python.svg" />
