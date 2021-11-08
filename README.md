@@ -43,7 +43,8 @@ Tools/Technologies/Platforms: <br>
 </h3>
 <br>
 <br>
-<br>
+
+---
 
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=venusaim23&theme=chartreuse-dark&line=086ccc&hide_border=true" title="" alt="Venu Sai's GitHub stats" />
