@@ -44,7 +44,9 @@ Tools/Technologies/Platforms: <br>
 <br>
 <br>
 
-<!-- https://activity-graph.herokuapp.com/graph?username=venusaim23 -->
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=venusaim23&theme=chartreuse-dark&line=086ccc&hide_border=true" title="" alt="Venu Sai's GitHub stats" />
+</p>
 
 <!--
 **venusaim23/venusaim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
