@@ -41,6 +41,7 @@ Tools/Technologies/Platforms: <br>
 <img align="left" title="Linux" alt="Linux" width="22px" src="./Logos_coloured/linux.svg" />
 
 </h3>
+
 <br>
 <br>
 <br>
@@ -55,7 +56,7 @@ Tools/Technologies/Platforms: <br>
 
 ---
 
-<img src="https://activity-graph.herokuapp.com/graph?username=venusaim23&theme=chartreuse-dark&line=086ccc&hide_border=true" title="" alt="Venu Sai's GitHub Contribution Graph" />
+<img src="https://activity-graph.herokuapp.com/graph?username=venusaim23&theme=chartreuse-dark&line=086ccc&border_color=dddddd" title="" alt="Venu Sai's GitHub Contribution Graph" />
 
 <!--
 **venusaim23/venusaim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
