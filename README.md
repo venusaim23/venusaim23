@@ -1,3 +1,10 @@
+<!--Credits: 
+readme typing animation: https://github.com/DenverCoder1/readme-typing-svg
+readme stats: https://github.com/anuraghazra/github-readme-stats
+readme streak stats: https://github.com/DenverCoder1/github-readme-streak-stats
+readme activity graph: https://github.com/ashutosh00710/github-readme-activity-graph
+-->
+
 <!-- ### Hi there 👋 -->
 <a href="#"><img width="100%" height="auto" src="https://readme-typing-svg.herokuapp.com/?lines=👋+Hi+there!;Welcome+to+my+github+profile+:%29&center=true&vCenter=true&size=50&width=1000&height=100&color=086ccc" /></a>
 
