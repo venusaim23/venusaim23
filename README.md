@@ -44,12 +44,17 @@ Tools/Technologies/Platforms: <br>
 <br>
 <br>
 <br>
-
 ---
 
 <p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=venusaim23&theme=chartreuse-dark&line=086ccc&hide_border=true" title="" alt="Venu Sai's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=venusaim23&count_private=true&show_icons=true&title_color=086ccc&text_color=ffffff&icon_color=7ffd01&border_color=dddddd&bg_color=000000" title="" alt="Venu Sai's GitHub stats" />
+<!--     <img src="" title="" alt="" />
+    <img src="" title="" alt="" /> -->
 </p>
+
+---
+
+<img src="https://activity-graph.herokuapp.com/graph?username=venusaim23&theme=chartreuse-dark&line=086ccc&hide_border=true" title="" alt="Venu Sai's GitHub Contribution Graph" />
 
 <!--
 **venusaim23/venusaim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
