@@ -13,6 +13,7 @@ readme activity graph: https://github.com/ashutosh00710/github-readme-activity-g
 ### Connect with me: <br>
 
 <a target="_blank" href="https://www.linkedin.com/in/venusaim000/"><img align="left" title="LinkedIn - Venu Sai" alt="LinkedIn" width="24px" src="./Logos_coloured/linkedin.svg" /></a>
+<a target="_blank" href="https://twitter.com/venusaim/"><img align="left" title="Twitter" alt="Twitter" width="24px" src="./Logos_coloured/twitter.svg" /></a>
 <a target="_blank" href="mailto:venusaim23@gmail.com"><img align="left" title="Gmail - Venu Sai" alt="Gmail" width="24px" src="./Logos_coloured/gmail.svg" /></a>
 <a target="_blank" href="https://github.com/venusaim23"><img align="left" title="GitHub - Venu Sai" alt="GitHub" width="24px" src="./Logos_coloured/github.svg" /></a>
 <a target="_blank" href="https://discordapp.com/users/477714913960394774/"><img align="left" title="Discord" alt="Discord" width="24px" src="./Logos_coloured/discord.svg" /></a>
